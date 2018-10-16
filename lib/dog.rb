@@ -1,3 +1,3 @@
-class Dog()
-  this_dogs_name = true
+class Dog(name)
+  this_dogs_name = name
 end
